@@ -1,5 +1,10 @@
 ### Hei! 👋
 
+🌱 På leting etter sommerjobb 2021
+📫 Solveig.b.grimstad@gmail.com
+🔭 Interessert i programvareutvikling!
+
+
 <!--
 **SolveigGrimstad/SolveigGrimstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
