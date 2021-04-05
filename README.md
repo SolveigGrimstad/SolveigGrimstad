@@ -1,8 +1,8 @@
 ### Hei! 👋
 
-🌱 På leting etter sommerjobb 2021
-📫 Solveig.b.grimstad@gmail.com
-🔭 Interessert i programvareutvikling!
+- 🌱 På leting etter sommerjobb 2021
+- 📫 Solveig.b.grimstad@gmail.com
+- 🔭 Interessert i programvareutvikling!
 
 
 <!--
