@@ -1,4 +1,4 @@
-### Hei! 👋
+### Heisann! 👋
 
 - 🌱 På leting etter sommerjobb 2021
 - 📫 Solveig.b.grimstad@gmail.com
