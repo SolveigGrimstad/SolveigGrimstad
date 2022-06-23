@@ -1,6 +1,6 @@
 ### Heisann! 👋
 
-- 🌱 Sommerjobb hos Saga Robotics 2021
+- 🌱 Sommerjobb hos BEKK 2022
 - 📫 Solveig.b.grimstad@gmail.com
 - 🔭 Interessert i programvareutvikling!
 
