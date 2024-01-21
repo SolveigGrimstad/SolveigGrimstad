@@ -1,6 +1,5 @@
 ### Heisann! 👋
 
-- 🌱 Sommerjobb hos BEKK 2022
 - 📫 Solveig.b.grimstad@gmail.com
 - 🔭 Interessert i programvareutvikling!
 
